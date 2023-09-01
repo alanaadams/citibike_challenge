@@ -1,5 +1,7 @@
 # citibike_challenge
 Module 18 Challenge
+Link to Tableau Public Workbook:
+https://public.tableau.com/views/Module18ChallengeAttempt1/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 ## Requirements
 ### Map (25 points)
